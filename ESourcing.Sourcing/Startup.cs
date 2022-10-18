@@ -1,6 +1,9 @@
 using Esourcing.Sourcing.Data;
 using Esourcing.Sourcing.Data.Interface;
+using Esourcing.Sourcing.Repositories.Interfaces;
+using Esourcing.Sourcing.Repositories;
 using Esourcing.Sourcing.Settings;
+using ESourcing.Sourcing.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -39,6 +42,8 @@ namespace ESourcing.Sourcing
             sp.GetRequiredService<IOptions<SourcingDatabaseSettings>>().Value);
 
             services.AddTransient<ISourcingContext, SourcingContext>();
+            services.AddTransient<IAuctionRepository, AuctionRepository>();
+            services.AddTransient<IBidRepository, BidRepository>();
 
             services.AddSwaggerGen(c =>
             {

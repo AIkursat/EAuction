@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ESourcing.Sourcing",
+    "\\ESourcing.Sourcing\\Data",
+    "\\ESourcing.Sourcing\\Data\\Interface"
   ],
-  "SelectedNode": "\\ESourcing.sln",
+  "SelectedNode": "\\ESourcing.Sourcing\\Data\\Interface\\ISourcingContext.cs",
   "PreviewInSolutionExplorer": false
 }
