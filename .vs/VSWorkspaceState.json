@@ -3,8 +3,9 @@
     "",
     "\\ESourcing.Sourcing",
     "\\ESourcing.Sourcing\\Data",
-    "\\ESourcing.Sourcing\\Data\\Interface"
+    "\\ESourcing.Sourcing\\Data\\Interface",
+    "\\ESourcing.Sourcing\\Repositories"
   ],
-  "SelectedNode": "\\ESourcing.Sourcing\\Data\\Interface\\ISourcingContext.cs",
+  "SelectedNode": "\\ESourcing.Sourcing\\Repositories\\BidRepository.cs",
   "PreviewInSolutionExplorer": false
 }

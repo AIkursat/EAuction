@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4oMeQPWNBgcOXMNmRg+KJ4089w2gf4xxd6sszxSTVdTURdpKzB5tWbYg7oYtLCGBNK7oSYlxRZwgkiMG5yAAwA==",
+  "dgSpecHash": "jKu7PFzrAxm3ToEyBJsIYIRI5ZaBowvcP2p3CjwQWCxnPAJ2HjgyE0nEsVDq+4YIuYbe1yRe2Opd1+bPwSqiJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\aynur\\source\\repos\\EAuction\\ESourcing.Sourcing\\ESourcing.Sourcing.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\mongodb.bson\\2.11.6\\mongodb.bson.2.11.6.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\mongodb.driver\\2.11.6\\mongodb.driver.2.11.6.nupkg.sha512",
