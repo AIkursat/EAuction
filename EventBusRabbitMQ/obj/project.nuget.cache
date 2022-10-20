@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "O6aGgd+AJgpCaQxvGWOWW0mtxiv9aT9MsAQviB71bZf+i9PBZpsxSqJFzOjjw1kBXRVf6pfG8fm51BCxsnNjVQ==",
+  "dgSpecHash": "aYsycObOp4g8UZsL8pKmN2lLzWciDOSbSHJUpeBcPkM4FZyMI4n1g9nMGeMLDyCByCrgCwgnpIU368pXpl9XEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aynur\\source\\repos\\EAuction\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
